@@ -1,0 +1,1 @@
+create table account(id bigint(20),name varchar(20), primary key (id));
